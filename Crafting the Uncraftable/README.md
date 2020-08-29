@@ -11,10 +11,10 @@
 - Wet sponge
 - Heart of the sea
 - Technical items (gained if in creative mode)
-  - Spawner
-  - Command block
-  - Command block minecart
-  - Structure block
-  - Structure void
-  - Jigsaw block
-  - Barrier
+	- Spawner
+	- Command block
+	- Command block minecart
+	- Structure block
+	- Structure void
+	- Jigsaw block
+	- Barrier
