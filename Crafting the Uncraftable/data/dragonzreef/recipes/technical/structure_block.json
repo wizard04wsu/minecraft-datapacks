@@ -1,0 +1,10 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{ "item": "minecraft:bedrock" },
+		{ "item": "minecraft:scaffolding" }
+	],
+	"result": {
+		"item": "minecraft:structure_block"
+	}
+}

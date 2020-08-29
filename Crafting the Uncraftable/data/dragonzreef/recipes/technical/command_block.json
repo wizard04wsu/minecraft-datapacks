@@ -1,0 +1,10 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{ "item": "minecraft:bedrock" },
+		{ "item": "minecraft:redstone" }
+	],
+	"result": {
+		"item": "minecraft:command_block"
+	}
+}

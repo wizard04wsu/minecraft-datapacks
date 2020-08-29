@@ -1,0 +1,28 @@
+{
+	"criteria": {
+		"have a beacon": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{ "item": "minecraft:beacon" }
+				]
+			}
+		},
+		"have a nautilus shell": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{ "item": "minecraft:nautilus_shell" }
+				]
+			}
+		}
+	},
+	"requirements": [
+		[ "have a beacon", "have a nautilus shell" ]
+	],
+	"rewards": {
+		"recipes": [
+			"dragonzreef:heart_of_the_sea"
+		]
+	}
+}

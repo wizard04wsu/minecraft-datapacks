@@ -1,0 +1,29 @@
+{
+	"criteria": {
+		"creative mode": {
+			"trigger": "minecraft:tick",
+			"conditions": {
+				"player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"entity": "this",
+						"predicate": {
+							"gamemode": "creative"
+						}
+					}
+				]
+			}
+		}
+	},
+	"rewards": {
+		"recipes": [
+			"dragonzreef:technical/barrier",
+			"dragonzreef:technical/command_block_minecart",
+			"dragonzreef:technical/command_block",
+			"dragonzreef:technical/jigsaw",
+			"dragonzreef:technical/spawner",
+			"dragonzreef:technical/structure_block",
+			"dragonzreef:technical/structure_void"
+		]
+	}
+}

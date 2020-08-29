@@ -1,0 +1,17 @@
+{
+	"criteria": {
+		"have a sea pickle": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{ "item": "minecraft:sea_pickle" }
+				]
+			}
+		}
+	},
+	"rewards": {
+		"recipes": [
+			"dragonzreef:wet_sponge"
+		]
+	}
+}

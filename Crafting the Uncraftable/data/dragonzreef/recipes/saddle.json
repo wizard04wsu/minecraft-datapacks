@@ -1,0 +1,24 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		" l ",
+		"lsl",
+		"l l"
+	],
+	"key": {
+		"l": { "item": "minecraft:leather" },
+		"s": [
+			{ "item": "minecraft:stripped_oak_wood" },
+			{ "item": "minecraft:stripped_spruce_wood" },
+			{ "item": "minecraft:stripped_birch_wood" },
+			{ "item": "minecraft:stripped_jungle_wood" },
+			{ "item": "minecraft:stripped_acacia_wood" },
+			{ "item": "minecraft:stripped_dark_oak_wood" },
+			{ "item": "minecraft:stripped_crimson_hyphae" },
+			{ "item": "minecraft:stripped_warped_hyphae" }
+		]
+	},
+	"result": {
+		"item": "minecraft:saddle"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"pp",
+		"pp"
+	],
+	"key": {
+		"p": { "item": "minecraft:sea_pickle" }
+	},
+	"result": {
+		"item": "minecraft:wet_sponge"
+	}
+}

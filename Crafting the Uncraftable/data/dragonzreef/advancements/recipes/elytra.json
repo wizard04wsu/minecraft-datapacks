@@ -1,0 +1,28 @@
+{
+	"criteria": {
+		"have a phantom membrane": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{ "item": "minecraft:phantom_membrane" }
+				]
+			}
+		},
+		"have an eye of ender": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{ "item": "minecraft:ender_eye" }
+				]
+			}
+		}
+	},
+	"requirements": [
+		[ "have a phantom membrane", "have an eye of ender" ]
+	],
+	"rewards": {
+		"recipes": [
+			"dragonzreef:elytra"
+		]
+	}
+}

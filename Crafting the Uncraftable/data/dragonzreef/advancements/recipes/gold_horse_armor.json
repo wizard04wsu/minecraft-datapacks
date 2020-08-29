@@ -1,0 +1,17 @@
+{
+	"criteria": {
+		"have a gold ingot": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{ "item": "minecraft:gold_ingot" }
+				]
+			}
+		}
+	},
+	"rewards": {
+		"recipes": [
+			"dragonzreef:gold_horse_armor"
+		]
+	}
+}

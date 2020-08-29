@@ -1,0 +1,15 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		" m ",
+		"ooo"
+	],
+	"key": {
+		"m": { "item": "minecraft:magma_cream" },
+		"o": { "item": "minecraft:oak_slab" }
+	},
+	"result": {
+		"item": "minecraft:petrified_oak_slab",
+		"count": 3
+	}
+}

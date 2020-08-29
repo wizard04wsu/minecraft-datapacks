@@ -1,0 +1,17 @@
+{
+	"criteria": {
+		"have an iron ingot": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{ "item": "minecraft:iron_ingot" }
+				]
+			}
+		}
+	},
+	"rewards": {
+		"recipes": [
+			"dragonzreef:iron_horse_armor"
+		]
+	}
+}

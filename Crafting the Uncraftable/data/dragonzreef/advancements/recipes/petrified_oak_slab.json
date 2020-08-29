@@ -1,0 +1,17 @@
+{
+	"criteria": {
+		"have magma cream": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{ "item": "minecraft:magma_cream" }
+				]
+			}
+		}
+	},
+	"rewards": {
+		"recipes": [
+			"dragonzreef:petrified_oak_slab"
+		]
+	}
+}

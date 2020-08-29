@@ -1,0 +1,15 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"sss",
+		"sbs",
+		"sss"
+	],
+	"key": {
+		"b": { "item": "minecraft:beacon" },
+		"s": { "item": "minecraft:nautilus_shell" }
+	},
+	"result": {
+		"item": "minecraft:heart_of_the_sea"
+	}
+}

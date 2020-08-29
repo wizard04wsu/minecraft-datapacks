@@ -1,0 +1,17 @@
+{
+	"criteria": {
+		"have a diamond": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{ "item": "minecraft:diamond" }
+				]
+			}
+		}
+	},
+	"rewards": {
+		"recipes": [
+			"dragonzreef:diamond_horse_armor"
+		]
+	}
+}

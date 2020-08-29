@@ -1,0 +1,20 @@
+{
+	"criteria": {
+		"have an chain": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{ "item": "minecraft:chain" }
+				]
+			}
+		}
+	},
+	"rewards": {
+		"recipes": [
+			"dragonzreef:chainmail_boots",
+			"dragonzreef:chainmail_leggings",
+			"dragonzreef:chainmail_chestplate",
+			"dragonzreef:chainmail_helmet"
+		]
+	}
+}
